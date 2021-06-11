@@ -1,0 +1,9 @@
+node_modules/
+public/images/
+.env.development
+.env.production
+.env.test
+config.json
+access.log
+coverage
+.vscode/
